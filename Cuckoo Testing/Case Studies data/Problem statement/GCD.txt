@@ -1,0 +1,8 @@
+GCD stands for Gratest Common Divisor. Another name for GCD is HCF (Highest 
+Common Factor). We are given two integer number. The GCD of two number will
+be that number which can divide both the number without a remainder.
+But there may be many of the numbers which can divide both. So GCD will be 
+that one of them which will be highest.
+
+Input : Two Integers 
+Output : Single integer which will be GCD

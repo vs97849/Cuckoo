@@ -1,0 +1,5 @@
+Calender Problem states that when we are given the date we can predict which 
+day will it be? (Like Monday, Tuesday, Wednessday, Thursday, Friday, Saturday, Sunday). 
+
+Input : date will be input in the form of dd-mm-yy
+Output : Out put the day for that perticular date

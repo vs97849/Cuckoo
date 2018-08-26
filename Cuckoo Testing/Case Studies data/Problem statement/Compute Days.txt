@@ -1,0 +1,8 @@
+Compute days
+In this problem we are given two inputs. And That two inputs will be two dates.
+And we have to compute (calculate) that how many days will be in between 
+two dates.
+
+Input: Two inputs First date (dd-mm-yy) Second date (dd-mm-yy)
+
+Output: An Integer which is number of days between two days

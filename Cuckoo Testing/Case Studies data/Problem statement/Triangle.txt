@@ -1,0 +1,5 @@
+In Triangle Problem we are given three sides of a Triangle. Based on that we have to tell whether that triangle of those sides are Equilateral, Isosceles, scalene
+or not a triangle.
+
+Input: Three Integers which are sides
+Output: Name of that triangle
